@@ -1,3 +1,12 @@
 # JOBSHEET-5
-# Latihan 02
+#Latihan 02
 ![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/program%20latihan%2002.PNG)
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/latihan%2002.PNG)
+#latihan 03
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/program%20latihan%2003.PNG)
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/latihan%2003.PNG)
+#latihan 07
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/program%20latihan%2007.PNG)
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/latihan%2007.PNG)
+#latihan 08
+![Alt text](https://github.com/mikaozora/JOBSHEET-5/blob/master/program%20latihan%2008.PNG)
